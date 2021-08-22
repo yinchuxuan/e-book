@@ -1,0 +1,93 @@
+.container71{
+    position:relative;
+    width:100%;
+    height:100%;
+    margin:0 auto;
+    background:url("../pic/book7.jpeg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    padding-top:720px;
+ }
+ .container72{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin-left:20%;
+    margin-right:20%;
+    width:60%;
+    height:100%;
+    opacity: 0.8;
+    background-color: white;
+}
+.item7{
+    position: relative;
+    margin-top:5px;
+    margin-left:5px;
+    margin-right:5px;
+    height:40%;
+    background-color: antiquewhite;
+}
+.item7:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.img7{
+    position:absolute;
+    margin-top:5%;
+    margin-bottom:15%;
+    margin-left:20%;
+    height:70%;
+    width:20%;
+    float:left;
+}
+.info7{
+    position: absolute;
+    margin-right:5%;
+    margin-left:65%;
+    padding-top:5%;
+    font-size:large;
+    line-height: 30px;
+    float:left;
+}
+.TotalCash7{
+    position: relative;
+    margin-top:40px;
+    margin-left:400px;
+}
+.button7{
+    position: relative;
+    margin-top:10px;
+    margin-left:45%;
+    width:90px;
+    height:25px;
+    border-radius: 4px; 
+    background-color:lightcoral;
+    border:none;
+    font-style: oblique;
+}
+.button7:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.empty7{
+    position: absolute;
+    margin-top:300px;
+    margin-left:300px;
+    font-size:xx-large;
+}
+.return7{
+    position:absolute;
+    top:0;
+}
+.button72{
+    width: 150px;
+    height:25px;
+    border-radius: 4px; 
+    background-color:yellowgreen;
+    border:none;
+    font-style: oblique;
+}
+.button72:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
